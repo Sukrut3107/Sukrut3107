@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sukrut</h1>
-<h3 align="center">A passionate full stack developer From INDIA</h3>
+<h3 align="center">Passionate Developer | Open Source Enthusiast | Problem Solver</h3>
+<h3 align="center">👋 Welcome to my GitHub profile! I'm Sukrut, a dedicated developer with a love for all things coding. I'm constantly exploring new technologies, collaborating on exciting projects</h3>
 
 - 💬 Ask me about **Java Spring, React JS, Python, SQL**
 
