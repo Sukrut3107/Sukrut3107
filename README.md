@@ -8,7 +8,7 @@ I have expertise in various programming languages including Python, JavaScript, 
 I'm an advocate for fostering a collaborative developer community. I participate in tech meetups, hackathons, and workshops, where I share my experiences and learn from others. Feel free to reach out if you'd like to collaborate or discuss exciting ideas!</h3> 
 
 <h3 align="center">📫 Contact Me:
-You can connect with me on LinkedIn or send me an email at [your.email@example.com]. I'm always open to new opportunities, interesting projects, and networking with fellow developers</h3> 
+You can connect with me on LinkedIn or send me an email at [sukrut515@gmail.com]. I'm always open to new opportunities, interesting projects, and networking with fellow developers</h3> 
 
 <h3 align="center">🌟 Let's code together and build amazing things!</h3>
 
