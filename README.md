@@ -1,5 +1,8 @@
 <h3 align="center">Passionate Developer | Open Source Enthusiast | Problem Solver</h3>
-<h3 align="center">👋 Welcome to my GitHub profile! I'm Sukrut, a dedicated developer with a love for all things coding. I'm constantly exploring new technologies, collaborating on exciting projects</h3>
+<h3 align="center">👋 Welcome to my GitHub profile! I'm Sukrut, a dedicated developer with a love for all things coding. I'm constantly exploring new technologies, collaborating on exciting projects.</h3>
+
+<h3 align="center"> 🚀 My Skills:
+I have expertise in various programming languages including Python, JavaScript, Java, and C++. I specialize in web development, backend engineering, and data analysis. I'm experienced with popular frameworks such as Django, React, and Node.js. I'm also well-versed in database management (SQL, MongoDB) and version control systems like Git</h3>
 
 - 💬 Ask me about **Java Spring, React JS, Python, SQL**
 
