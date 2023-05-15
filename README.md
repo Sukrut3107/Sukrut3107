@@ -4,6 +4,15 @@
 <h3 align="center"> 🚀 My Skills:
 I have expertise in various programming languages including Python, JavaScript, Java, and C++. I specialize in web development, backend engineering, and data analysis. I'm experienced with popular frameworks such as Django, React, and Node.js. I'm also well-versed in database management (SQL, MongoDB) and version control systems like Git</h3>
 
+<h3 align="center">🌍 Community Engagement:
+I'm an advocate for fostering a collaborative developer community. I participate in tech meetups, hackathons, and workshops, where I share my experiences and learn from others. Feel free to reach out if you'd like to collaborate or discuss exciting ideas!</h3> 
+
+<h3 align="center">📫 Contact Me:
+You can connect with me on LinkedIn or send me an email at [your.email@example.com]. I'm always open to new opportunities, interesting projects, and networking with fellow developers</h3> 
+
+<h3 align="center">🌟 Let's code together and build amazing things!</h3>
+
+
 - 💬 Ask me about **Java Spring, React JS, Python, SQL**
 
 <h3 align="left">Connect with me:</h3>
