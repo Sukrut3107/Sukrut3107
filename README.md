@@ -17,7 +17,7 @@ You can connect with me on LinkedIn or send me an email at [sukrut515@gmail.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sukrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sukrut" height="30" width="40" /></a>
+<a href="https://dev.to/sukrut3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sukrut" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
