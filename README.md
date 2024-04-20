@@ -13,7 +13,7 @@ Experienced MERN stack developer proficient in building robust web applications 
 - Node Js
 - React Js
 - Express Js
-- Test-driven development (TDD) and unit testing
+
 
 
 
