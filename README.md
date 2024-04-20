@@ -1,17 +1,18 @@
 # [Sukrut Bilaskar]
 
-## Software Developer | Java Spring Enthusiast
+## Software Developer 
 
-![profile-banner](https://github.com/Sukrut3107/sukrut3107/assets/29407810/54604b41-084f-498a-8ebb-99f93db740ea)
+
 
 ### About Me
-I am a passionate software developer with expertise in building robust and scalable applications using Java Spring. With a focus on clean code and best practices, I strive to create high-quality solutions that deliver value to businesses and users.
+
+Experienced MERN stack developer proficient in building robust web applications with MongoDB, Express.js, React.js, and Node.js. Passionate about creating efficient and scalable solutions to solve real-world challenges. Dedicated to continuous learning and staying updated with the latest technologies in web development
 
 ### Tech Stack
-- Java Spring (Spring Boot, Spring MVC, Spring Data, Spring Security)
-- RESTful API development
-- Microservices architecture
-- Database design and optimization (SQL and NoSQL)
+- Mongo DB
+- Node Js
+- React Js
+- Express Js
 - Test-driven development (TDD) and unit testing
 
 
